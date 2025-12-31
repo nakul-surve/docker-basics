@@ -43,3 +43,8 @@ Application → Docker Image → Container → Server (Linux / Cloud)
 
 ## Learning Goal
 Build a clear foundation before running real containers.
+
+## Connection with Previous Topics
+- Linux provides the OS for containers
+- Git stores Dockerfile and app code
+- AWS hosts containerized applications
