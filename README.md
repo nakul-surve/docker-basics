@@ -41,8 +41,6 @@ Docker helps package applications with all their dependencies so they run the sa
 ## Simple Example (Conceptual)
 Application → Docker Image → Container → Server (Linux / Cloud)
 
-## Learning Goal
-Build a clear foundation before running real containers.
 
 ## Connection with Previous Topics
 - Linux provides the OS for containers
