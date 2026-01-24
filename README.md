@@ -1,6 +1,5 @@
 # docker-basics
 
-This repository contains my beginner notes and commands while learning Docker.
 
 ## Topics Covered
 - What is Docker
