@@ -41,7 +41,4 @@ Docker helps package applications with all their dependencies so they run the sa
 Application → Docker Image → Container → Server (Linux / Cloud)
 
 
-## Connection with Previous Topics
-- Linux provides the OS for containers
-- Git stores Dockerfile and app code
-- AWS hosts containerized applications
+## Connection with Previous 
